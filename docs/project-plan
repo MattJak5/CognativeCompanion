@@ -1,0 +1,120 @@
+# Care App Project Plan
+
+## Purpose
+A simple, user-friendly web app to support elderly users or those with early dementia by helping with day-to-day tasks, while also assisting caregivers and family members with organization and communication.
+
+---
+
+## Target Users
+- Elderly people or individuals with memory challenges
+- Family caregivers
+- Professional caregivers (with multiple patients)
+- Care homes (future consideration)
+
+---
+
+## Core Principles
+- **Simplicity first** for both patient and caregiver
+- **Accessibility** for older users (UI clarity, responsive, lightweight)
+- **Affordability** — runs on old tablets via PWA
+- **Scalable design** to allow feature growth
+- **Learning-focused** — demonstrate full-stack skills
+
+---
+
+## Roadmap
+
+### V1 – Cognitive Assistant MVP (Patient-Facing)
+- Patient dashboard (basic UI)
+- Daily agenda/reminders (view only)
+- Notes/journal entries
+- Editable by caregiver or family
+- Tablet-friendly design
+- Implemented as a simple PWA
+
+### V1.1 – Family/Caregiver Portal
+- Secure caregiver login
+- Add/edit patient details and agenda
+- Write daily notes
+- Manage multiple patients
+
+### V1.2 – Communication Features
+- Messaging between family & caregivers
+- Ability to leave updates for each other
+- Optional: simple notification system
+
+### V1.3 – Visual Journal / Photo Album
+- Caregivers or family can upload images and short notes
+- Viewable as a timeline for patients
+
+### V2+ (Future Ideas)
+- Video calling with family
+- Cognitive games/reminders
+- Integration with support orgs (NHS, charities)
+- Multilingual support
+- Exportable data for care reviews
+
+---
+
+## Accessibility Plans
+- Large text, high contrast UI
+- Icons and labels clearly paired
+- Simple navigation (minimal options per screen)
+- Offline availability via PWA
+- Designed for use on second-hand/low-spec tablets
+
+---
+
+## Business Model (Future)
+- Free tier for families
+- Optional paid tier for care homes or larger teams
+- Donation-supported or sponsorship via charities
+- Partner with NHS or support groups for distribution
+
+---
+
+## Feedback & Research Strategy
+- Talk to caregivers and family (informal interviews)
+- Join forums for dementia/caregiving
+- Set up a landing page with a feedback form
+- Document learnings & improvements in blog
+
+---
+
+## Blog Plan
+- **Post 1**: Project intro — what, why, roadmap
+- **Post 2+**: MVP progress posts (planning, tech stack, decisions)
+- Share to: Dev.to, Hashnode, GitHub Pages (later)
+
+---
+
+## Tech Stack (To Be Confirmed)
+- Frontend: HTML/CSS/JS (maybe Tailwind), later React
+- Backend: Ruby on Rails (early), maybe move to Node later
+- DB: PostgreSQL
+- Hosting: Render / Fly.io / Netlify (for frontend)
+- PWA support: Web manifest + service worker
+
+---
+
+## Feature Ideas Bank
+- [ ] Checklist UI for patient
+- [ ] Medication reminders
+- [ ] Emergency contact quick dial
+- [ ] Speech-to-text journal
+- [ ] AI suggestions for caregivers (way later)
+
+---
+
+## Partner / Outreach Ideas
+- Age UK / Alzheimer’s Society
+- NHS support teams
+- Local councils
+- Community care networks
+
+---
+
+## Notes
+- Keep MVP tight — usability and clarity > feature overload
+- Design with real-world constraints in mind
+- Blog and project planning = part of your portfolio
